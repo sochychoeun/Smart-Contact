@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to Smart Contact
+The Smart Contact smartphone app is allow people to enable light on hand, it is very easy and simple to use. Everyone will not worry about dark world any more.
 
-You can use the [editor on GitHub](https://github.com/sochychoeun/Smart-Contact/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Privacy Policy
+Lighter Khmer app is required permission to READ CONTACTS in order to access your contact to list the pretty in this app. By using this app, you are accepted to allow permission to this app.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Change to Policy
+Smart Contact reserves the right to revise, amend, or change this Policy at any time and in any manner by posting such changes on our site. We encourage you to periodically check our site for changes to this Policy since your continued use of the site following any changes to this Policy will be deemed to constitute your acceptance of such change. The operative and effective version of this Policy will be the latest version available on the site.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sochychoeun/Smart-Contact/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you have questions or concerns regarding this Policy, you should contact us by email at sochy.choeun@gmail.com.
